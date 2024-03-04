@@ -1,0 +1,17 @@
+2024/03/03 14:27:42 - Starting test
+2024/03/03 14:27:42 - Test Created
+2024/03/03 14:28:05 - Extracting 243448 byte uploaded file '/tmp/php7D7UPd' to './results/24/03/03/BiDcDC/4ER'
+2024/03/03 14:28:05 - Test Run Complete. Run: 1, Cached: 0, Done: 1, Tester: wpt_use1_instance-10.10.11.87-54.163.76.76
+2024/03/03 14:28:05 - 1 of 3 tests complete
+2024/03/03 14:28:05 - Done Processing. Run: 1, Cached: 0, Done: 1, Tester: wpt_use1_instance-10.10.11.87-54.163.76.76
+2024/03/03 14:28:05 - Extracting 244699 byte uploaded file '/tmp/phpnzL5AO' to './results/24/03/03/BiDcDC/4ER'
+2024/03/03 14:28:05 - Test Run Complete. Run: 3, Cached: 0, Done: 1, Tester: wpt_use1_instance-10.10.11.212-54.163.76.76
+2024/03/03 14:28:05 - Extracting 239704 byte uploaded file '/tmp/phpnbTFoK' to './results/24/03/03/BiDcDC/4ER'
+2024/03/03 14:28:05 - 2 of 3 tests complete
+2024/03/03 14:28:05 - Done Processing. Run: 3, Cached: 0, Done: 1, Tester: wpt_use1_instance-10.10.11.212-54.163.76.76
+2024/03/03 14:28:05 - Test Run Complete. Run: 2, Cached: 0, Done: 1, Tester: wpt_use1_instance-10.10.11.18-54.163.76.76
+2024/03/03 14:28:05 - 3 of 3 tests complete
+2024/03/03 14:28:05 - All done
+2024/03/03 14:28:05 - Done Processing. Run: 2, Cached: 0, Done: 1, Tester: wpt_use1_instance-10.10.11.18-54.163.76.76
+2024/03/03 14:28:05 - Test Complete
+2024/03/03 14:28:05 - Test post-processing complete
